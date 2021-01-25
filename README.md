@@ -2,8 +2,8 @@
 
 Actors
 ---
-PI --> Project's Investor
-PD --> Project's Developer  
+1. PI --> Project's Investor
+2. PD --> Project's Developer  
 
 Rules
 ---
